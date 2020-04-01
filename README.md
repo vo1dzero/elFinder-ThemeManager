@@ -1,4 +1,5 @@
-
+<h1><strong>elFinder - ThemeManager</strong></h1>
+<h3><strong>Adds an Theme-Manager with 6 included Themes to your exsiting elFinder Installation on your Server. This all is working with just one tiny JS!</strong></h3>
 <p><span style="text-decoration: underline;"><strong>Installation:</strong></span></p>
 <p><strong>1.</strong> Put the <em><span style="text-decoration: underline;">loc-themes</span></em>-folder inside the <span style="text-decoration: underline;"><em>root</em></span>-folder of your elFinder-Copy on your server.</p>
 <p><strong>2.</strong> Add the following Script-Tag in the Header of your HTML-Page where your elFinder is loaded:</p>
